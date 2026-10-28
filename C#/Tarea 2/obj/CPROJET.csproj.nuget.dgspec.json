@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\CODES\\CPROJET\\CPROJET.csproj": {}
+    "C:\\Users\\USER\\Desktop\\CODES\\C#\\Tarea 2\\CPROJET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\CODES\\CPROJET\\CPROJET.csproj": {
+    "C:\\Users\\USER\\Desktop\\CODES\\C#\\Tarea 2\\CPROJET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\CODES\\CPROJET\\CPROJET.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\CODES\\C#\\Tarea 2\\CPROJET.csproj",
         "projectName": "CPROJET",
-        "projectPath": "C:\\Users\\USER\\Desktop\\CODES\\CPROJET\\CPROJET.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\CODES\\C#\\Tarea 2\\CPROJET.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\CODES\\CPROJET\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\CODES\\C#\\Tarea 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

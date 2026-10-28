@@ -1,0 +1,19 @@
+# Bloquear carpetas basura en cualquier subcarpeta
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
+**/.vscode/
+
+# Bloquear archivos sueltos de caché y config local
+*.cache
+**/*.cache
+*.user
+**/*.user
+*.userosscache
+**/*.userosscache
+*.sln.docstates
+**/*.sln.docstates
+
+# Temporales de Java
+*.class
+**/*.class
