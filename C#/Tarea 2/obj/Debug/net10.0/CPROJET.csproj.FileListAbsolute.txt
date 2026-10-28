@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\CPROJET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\CPROJET.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\CPROJET.AssemblyInfo.cs
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\CPROJET.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CODES\CPROJET\bin\Debug\net10.0\CPROJET.exe
+C:\Users\USER\Desktop\CODES\CPROJET\bin\Debug\net10.0\CPROJET.deps.json
+C:\Users\USER\Desktop\CODES\CPROJET\bin\Debug\net10.0\CPROJET.runtimeconfig.json
+C:\Users\USER\Desktop\CODES\CPROJET\bin\Debug\net10.0\CPROJET.dll
+C:\Users\USER\Desktop\CODES\CPROJET\bin\Debug\net10.0\CPROJET.pdb
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\CPROJET.dll
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\refint\CPROJET.dll
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\CPROJET.pdb
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\CPROJET.genruntimeconfig.cache
+C:\Users\USER\Desktop\CODES\CPROJET\obj\Debug\net10.0\ref\CPROJET.dll

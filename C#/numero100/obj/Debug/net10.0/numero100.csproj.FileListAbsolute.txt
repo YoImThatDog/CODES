@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\CODES\C#\numero100\bin\Debug\net10.0\numero100.exe
+C:\Users\USER\Desktop\CODES\C#\numero100\bin\Debug\net10.0\numero100.deps.json
+C:\Users\USER\Desktop\CODES\C#\numero100\bin\Debug\net10.0\numero100.runtimeconfig.json
+C:\Users\USER\Desktop\CODES\C#\numero100\bin\Debug\net10.0\numero100.dll
+C:\Users\USER\Desktop\CODES\C#\numero100\bin\Debug\net10.0\numero100.pdb
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\numero100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\numero100.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\numero100.AssemblyInfo.cs
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\numero100.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\numero100.dll
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\refint\numero100.dll
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\numero100.pdb
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\numero100.genruntimeconfig.cache
+C:\Users\USER\Desktop\CODES\C#\numero100\obj\Debug\net10.0\ref\numero100.dll
